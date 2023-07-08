@@ -19,24 +19,23 @@ Looper is a Responsive Admin Theme designed with focus on simplicity, user exper
 
 Provides a tons of useful Components and Pages that allow you to focus on your application logic rather than re-touching pixels.
 
-<h3>Components:</h3>
-
-- All of Bootstrap components
-- Avatar
-- Conversation
-- Expansion cards
-- Feeds
-- Figures
-- Icons
-- Loading
-- Metrics
-- Publisher
-- Steps
-- Tasks
-- Tiles
-- Timeline
-- Visual picker
-- Much more…
+> **<h3>Components:</h3>**
+> - All of Bootstrap components
+> - Avatar
+> - Conversation
+> - Expansion cards
+> - Feeds
+> - Figures
+> - Icons
+> - Loading
+> - Metrics
+> - Publisher
+> - Steps
+> - Tasks
+> - Tiles
+> - Timeline
+> - Visual picker
+> - Much more…
 
 <h3>40+ Ready Pages and Counting:</h3>
 
