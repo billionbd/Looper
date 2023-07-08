@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="index.html">
-		<img src="" alt="">
+		<img src="https://github.com/billionbd/looper/blob/main/assets/apple-touch-icon.png?raw=true" alt="" width="96px">
   </a>
   <br>
   <h1>Looper – Responsive Admin Template</h1>
