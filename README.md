@@ -1,27 +1,47 @@
+<div align="center">
+  <img src="https://github.com/ixahmedxi/noodle/blob/main/apps/web/public/android-chrome-192x192.png?raw=true" alt="Noodle logo" width="75"><br>
+  <h1>Looper – Responsive Admin Template</h1><br>
+</div>
 Looper is a Responsive Admin Theme designed with focus on simplicity, user experience, interactions, and flows. It enables you to build rich and beautiful experiences for your project.
 
 Ready-to-go
 Provides a tons of useful Components and Pages that allow you to focus on your application logic rather than re-touching pixels.
 
-Components:
+<h3>Components:</h3>
 
-All of Bootstrap components
-Avatar
-Conversation
-Expansion cards
-Feeds
-Figures
-Icons
-Loading
-Metrics
-Publisher
-Steps
-Tasks
-Tiles
-Timeline
-Visual picker
-Much more…
-40+ Ready Pages and Counting:
+-All of Bootstrap components
+
+-Avatar
+
+-Conversation
+
+-Expansion cards
+
+-Feeds
+
+-Figures
+
+-Icons
+
+-Loading
+
+-Metrics
+
+-Publisher
+
+-Steps
+
+-Tasks
+
+-Tiles
+
+-Timeline
+
+-Visual picker
+
+-Much more…
+
+<h3>40+ Ready Pages and Counting:</h3>
 
 Clients
 Client Billing & Contact
