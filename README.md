@@ -98,7 +98,7 @@ You will be able to quickly scaffold your theme and start developing. All you ne
 
 1. npm install
 2. gulp
-3. 
+
 <b>Yay!</b> Well done. The real magic will happens to you when you start creating your custom templates using our build system.
 
 ## Well Documented
