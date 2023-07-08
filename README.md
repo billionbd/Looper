@@ -9,37 +9,22 @@ Provides a tons of useful Components and Pages that allow you to focus on your a
 
 <h3>Components:</h3>
 
--All of Bootstrap components
-
--Avatar
-
--Conversation
-
--Expansion cards
-
--Feeds
-
--Figures
-
--Icons
-
--Loading
-
--Metrics
-
--Publisher
-
--Steps
-
--Tasks
-
--Tiles
-
--Timeline
-
--Visual picker
-
--Much more…
+- All of Bootstrap components
+- Avatar
+- Conversation
+- Expansion cards
+- Feeds
+- Figures
+- Icons
+- Loading
+- Metrics
+- Publisher
+- Steps
+- Tasks
+- Tiles
+- Timeline
+- Visual picker
+- Much more…
 
 <h3>40+ Ready Pages and Counting:</h3>
 
@@ -93,19 +78,24 @@ Landing Page
 Oh, I almost forgot! Looper also comes with some layout variations 🙂
 
 ## Easily customizable
-Reflect your personality! We make sure you can modify the look of Looper by touching just two SCSS files (even one).  If you want to go deeper, don’t worry! Each component is separated in their own file so you can modify it without fear.
+
+Reflect your personality! We make sure you can modify the look of Looper by touching just two SCSS files (even one). If you want to go deeper, don’t worry! Each component is separated in their own file so you can modify it without fear.
 
 ## Simple Workflow
+
 You will be able to quickly scaffold your theme and start developing. All you need is open your command line then type:
 
 ## npm install
+
 gulp
 Yay! Well done. The real magic will happens to you when you start creating your custom templates using our build system.
 
 ## Well Documented
+
 Each component is well explained with example, code block and best practices. We also provide extensive information about customizing Looper. Check it out here.
 
 ## Support
+
 Got a question about Looper? I’m here to help in any way I can. Just fill support form bellow and I’ll get back to you shortly:
 
 Just hit Contact Seller button on right panel in this page for Pre-sales questions.
