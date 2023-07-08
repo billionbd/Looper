@@ -15,7 +15,8 @@
 </div>
 Looper is a Responsive Admin Theme designed with focus on simplicity, user experience, interactions, and flows. It enables you to build rich and beautiful experiences for your project.
 
-Ready-to-go
+## Ready-to-go
+
 Provides a tons of useful Components and Pages that allow you to focus on your application logic rather than re-touching pixels.
 
 <h3>Components:</h3>
