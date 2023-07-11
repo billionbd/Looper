@@ -81,6 +81,9 @@ Provides a tons of useful Components and Pages that allow you to focus on your a
 - Landing Page
 - Oh, I almost forgot! Looper also comes with some layout variations 🙂
 
+# [v1.0.0]
+Initial Release
+
 ## Easily customizable
 
 Reflect your personality! We make sure you can modify the look of Looper by touching just two SCSS files (even one). If you want to go deeper, don’t worry! Each component is separated in their own file so you can modify it without fear.
