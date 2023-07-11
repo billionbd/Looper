@@ -81,6 +81,15 @@ Provides a tons of useful Components and Pages that allow you to focus on your a
 - Landing Page
 - Oh, I almost forgot! Looper also comes with some layout variations 🙂
 
+# [v1.0.1]
+- Enhancement: Update Bootstrap v4.1.1 and all dependencies to latest version
+- Enhancement: Refactoring form-basic page to provide a better experience for you
+- Enhancement: Included datatables buttons to datatables page
+- Enhancement: Integrated photoswipe to feeds and conversation page
+- New: Interactivity checkbox on table-basic page
+- Fixed: Inconsistent style on some components states (btn-account, form validation, etc)
+- Fixed: Minor bugs on looper styles
+
 ## Easily customizable
 
 Reflect your personality! We make sure you can modify the look of Looper by touching just two SCSS files (even one). If you want to go deeper, don’t worry! Each component is separated in their own file so you can modify it without fear.
